@@ -45,16 +45,10 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
 ## 📈 **Contribution Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=default" alt="GitHub Streak">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=default" alt="GitHub Streak"> -->
 </div>
 
-[---
-
-## 📈 **Dynamic Growth Metrics**
-### **Growth Over Time**
-![Metrics](https://metrics.lecoq.io/SaiGopal-Challa?template=classic&repositories.forks=true&languages.indepth=true&languages.ignored=html,css&config.timezone=Asia%2FCalcutta)
-
----](url)
+---
 
 ## 📚 **Highlighted Repositories**
 <div align="center">
