@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hey, I'm Sai Gopal Challa!  
 
 <p align="center">
-  ![Hello Animation](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
+  <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="Hello Animation" width="300"/>
 </p>
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
@@ -96,7 +96,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ## 🌟 **Recent Activity**
 
 <p align="center">
-  ![Recent Activity](https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif)
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Coding Gif" width="400" style="border-radius: 10px;"/>
 </p>
 
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
