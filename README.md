@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 **About Me**
-Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **backend systems**, **API development**, and **cloud solutions**. I enjoy crafting scalable solutions, exploring distributed systems, and enhancing application performance.
+Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems**, **API development**, and **cloud solutions**. I enjoy crafting scalable solutions, exploring distributed systems, and enhancing application performance.
 
 - 🛠 Skilled in `.NET Core`, `Java`, `SQL Databases`, and `AWS`.
 - 🌐 Explore my portfolio: [saigopalchalla.in](https://saigopalchalla.in)  
