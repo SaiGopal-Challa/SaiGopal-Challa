@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hey, I'm Sai Gopal Challa!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="Hello Animation" width="300"/>
+  <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="Hello Animation" width="200"/>
 </p>
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
