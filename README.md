@@ -29,7 +29,7 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
 - 🌐 Explore my portfolio: [saigopalchalla.in](https://saigopalchalla.in)  
 - 🔭 Currently working on scalable microservices and optimizing database systems.
 - 🌱 Learning about **Graph Databases** and **Machine Learning**
-- 💡 Exploring AI and building full-stack applications.
+- 💡 Exploring AI and building microservices.
 
 ---
 
@@ -45,14 +45,14 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
 ## 📈 **Contribution Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph">
-  <img src="https://streak-stats.demolab.com?user=SaiGopal-Challa&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=SaiGopal-Challa&theme=dark" alt="GitHub Streak">
 </div>
 
 ---
 
 ## 📈 **Dynamic Growth Metrics**
 ### **Growth Over Time**
-![Metrics](https://metrics.lecoq.io/your-github-username?template=classic&repositories.forks=true&languages.indepth=true&languages.ignored=html,css&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/SaiGopal-Challa?template=classic&repositories.forks=true&languages.indepth=true&languages.ignored=html,css&config.timezone=Asia%2FCalcutta)
 
 ---
 
@@ -62,7 +62,7 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=AuthServiceSGC&theme=radical" alt="AuthServiceSGC Repo">
   </a>
   <a href="https://github.com/SaiGopal-Challa/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=Portfolio&theme=radical" alt="Portfolio Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=PlayWithDataStructures&theme=radical" alt="PlayWithDataStructures Repo">
   </a>
 </div>
 
@@ -92,5 +92,5 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
 <p align="center">
   <a href="https://www.linkedin.com/in/saigopal-challa"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
   <a href="https://github.com/SaiGopal-Challa"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"></a>
-  <a href="mailto:saigopal.challa@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a>
+  <!-- <a href="mailto:saigopal.challa@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a> -->
 </p>
