@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Sai Gopal Challa!  
+# 👋 Hey, I'm Sai Gopal Challa!  
+<p align="center">
+  <img src="https://media.giphy.com/media/1d2xnVgeXvF1HEjplT/giphy.gif" alt="Hello Animation" width="300"/>
+</p>  
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
 [![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://SaiGopal-Challa.github.io)
@@ -35,8 +38,8 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiGopal-Challa&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGopal-Challa&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiGopal-Challa&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiGopal-Challa&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
   
 </div>
 
@@ -44,7 +47,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 
 ## 📈 **Contribution Activity**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph" width="800" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=default" alt="GitHub Streak"> -->
 </div>
 
@@ -53,43 +56,60 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ## 📚 **Highlighted Repositories**
 <div align="center">
   <a href="https://github.com/SaiGopal-Challa/AuthServiceSGC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=AuthServiceSGC&theme=radical" alt="AuthServiceSGC Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=AuthServiceSGC&theme=radical" alt="AuthServiceSGC Repo" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://github.com/SaiGopal-Challa/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=PlayWithDataStructures&theme=radical" alt="PlayWithDataStructures Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=PlayWithDataStructures&theme=radical" alt="PlayWithDataStructures Repo" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
   </a>
 </div>
 
 ---
 
 ## 💻 **Tech Stack**
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET%20Core-blue?style=for-the-badge&logo=dotnet" alt=".NET Core">
-  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp" alt="C#">
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws" alt="AWS">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/Git-ff4500?style=for-the-badge&logo=git" alt="Git">
-</div>
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20Core-%2396c6f2?style=for-the-badge&logo=dotnet&logoColor=black" alt=".NET Core" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/C%23-%23ffcc00?style=for-the-badge&logo=csharp&logoColor=black" alt="C#" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Java-%23ff7b0d?style=for-the-badge&logo=java&logoColor=black" alt="Java" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23f39c12?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 20px;"/>
+</p>
+
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%233B1E6B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/AWS-%23F2994A?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="border-radius: 20px;"/>
+<!--   <img src="https://img.shields.io/badge/GraphQL-%2395A5A6?style=for-the-badge&logo=graphql&logoColor=black" alt="GraphQL" style="border-radius: 20px;"/> -->
+</p>
+
+### **Tools & Other Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%2398C1D9?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Git-%23FF7F00?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 20px;"/>
+  <img src="https://img.shields.io/badge/Redis-%23d52b1e?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="border-radius: 20px;"/>
+<!--   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 20px;"/> -->
+</p>
+
 
 ---
 
 ## 🌟 **Recent Activity**
-<!-- Replace this with activity insights -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsvrlwC1fREw6hS/giphy.gif" alt="Coding Gif" width="400" style="border-radius: 10px;"/>
+</p>
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
 - 🌐 Deployed and hosted projects using AWS and GitHub Pages.
 - 🧠 Learning advanced distributed systems and caching strategies.
 
 ---
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiGopal-Challa&theme=dark_lover" alt="GitHub Trophies">
-</div>
 
+## 🏆 **Achievements**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiGopal-Challa&theme=dracula&column=7" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
+</div>
 ---
 
-## 🛠 **Get in Touch**
+## 📫 **Get in Touch**
 <p align="center">
-  <a href="https://www.linkedin.com/in/saigopal-challa"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://github.com/SaiGopal-Challa"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"></a>
-  <!-- <a href="mailto:saigopal.challa@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a> -->
+  <a href="https://www.linkedin.com/in/saigopal-challa"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%;"/></a>
+  <a href="https://github.com/SaiGopal-Challa"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="border-radius: 50%;"/></a>
 </p>
