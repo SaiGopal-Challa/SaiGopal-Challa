@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hey, I'm Sai Gopal Challa!  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/1d2xnVgeXvF1HEjplT/giphy.gif" alt="Hello Animation" width="300"/>
-</p>  
+  <iframe src="https://giphy.com/embed/26xBukhJ0i8KXADYc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p align="center"><a href="https://giphy.com/gifs/animation-hello-mograph-26xBukhJ0i8KXADYc">via GIPHY</a></p>
+</p>
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
 [![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://SaiGopal-Challa.github.io)
@@ -93,9 +95,12 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ---
 
 ## 🌟 **Recent Activity**
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsvrlwC1fREw6hS/giphy.gif" alt="Coding Gif" width="400" style="border-radius: 10px;"/>
+  <iframe src="https://giphy.com/embed/25Itcrcuwkyq3ohubJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p align="center"><a href="https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ">via GIPHY</a></p>
 </p>
+
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
 - 🌐 Deployed and hosted projects using AWS and GitHub Pages.
 - 🧠 Learning advanced distributed systems and caching strategies.
@@ -106,6 +111,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiGopal-Challa&theme=dracula&column=7" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
 </div>
+
 ---
 
 ## 📫 **Get in Touch**
