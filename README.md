@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hey, I'm Sai Gopal Challa!  
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/26xBukhJ0i8KXADYc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p align="center"><a href="https://giphy.com/gifs/animation-hello-mograph-26xBukhJ0i8KXADYc">via GIPHY</a></p>
+  ![Hello Animation](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
 </p>
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
@@ -97,8 +96,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ## 🌟 **Recent Activity**
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/25Itcrcuwkyq3ohubJ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p align="center"><a href="https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ">via GIPHY</a></p>
+  ![Recent Activity](https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif)
 </p>
 
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
