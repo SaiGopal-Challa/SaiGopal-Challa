@@ -48,13 +48,13 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=default" alt="GitHub Streak">
 </div>
 
----
+[---
 
 ## 📈 **Dynamic Growth Metrics**
 ### **Growth Over Time**
 ![Metrics](https://metrics.lecoq.io/SaiGopal-Challa?template=classic&repositories.forks=true&languages.indepth=true&languages.ignored=html,css&config.timezone=Asia%2FCalcutta)
 
----
+---](url)
 
 ## 📚 **Highlighted Repositories**
 <div align="center">
