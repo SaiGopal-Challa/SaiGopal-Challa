@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 [![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
-[![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://SaiGopal-Challa.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://SaiGopal-Challa.github.io/SGC-GitHubPage/)
 
 ---
 
