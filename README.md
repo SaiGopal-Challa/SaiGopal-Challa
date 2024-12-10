@@ -96,7 +96,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ## 🌟 **Recent Activity**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Coding Gif" width="400" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Coding Gif" width="250" style="border-radius: 10px;"/>
 </p>
 
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
