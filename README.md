@@ -45,7 +45,7 @@ Hi! I'm Sai Gopal Challa, a passionate software developer specializing in **back
 ## 📈 **Contribution Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph">
-  <img src="https://streak-stats.demolab.com?user=SaiGopal-Challa&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
