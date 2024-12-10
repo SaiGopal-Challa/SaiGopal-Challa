@@ -81,6 +81,11 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 - 🧠 Learning advanced distributed systems and caching strategies.
 
 ---
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiGopal-Challa&theme=dark_lover" alt="GitHub Trophies">
+</div>
+
+---
 
 ## 🛠 **Get in Touch**
 <p align="center">
