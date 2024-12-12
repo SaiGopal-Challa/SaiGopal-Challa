@@ -102,6 +102,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 - 🔨 Worked on enhancing the AuthServiceSGC microservice.
 - 🌐 Deployed and hosted projects using AWS and GitHub Pages.
 - 🧠 Learning advanced distributed systems and caching strategies.
+- 💡 Recently started building EventStreamingPlatform and also started exploring Gen AI.
 
 ---
 
