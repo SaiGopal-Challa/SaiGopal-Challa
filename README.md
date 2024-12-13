@@ -90,7 +90,6 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 <!--   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 20px;"/> -->
 </p>
 
-
 ---
 
 ## 🌟 **Recent Activity**
