@@ -115,5 +115,5 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 ## 📫 **Get in Touch**
 <p align="center">
   <a href="https://www.linkedin.com/in/saigopal-challa"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%;"/></a>
-  <a href="https://github.com/SaiGopal-Challa"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="border-radius: 50%;"/></a>
+  <a href="https://github.com/SaiGopal-Challa"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" style="border-radius: 50%;"/></a>
 </p>
