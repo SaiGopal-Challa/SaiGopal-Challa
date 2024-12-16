@@ -48,7 +48,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
 
 ## 📈 **Contribution Activity**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph" width="800" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiGopal-Challa&theme=rogue" alt="Contribution Graph" width="800" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiGopal-Challa&theme=default" alt="GitHub Streak"> -->
 </div>
 
