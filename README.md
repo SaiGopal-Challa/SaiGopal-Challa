@@ -59,7 +59,7 @@ Hi! I'm Sai Gopal Challa, a software developer specializing in **backend systems
   <a href="https://github.com/SaiGopal-Challa/AuthServiceSGC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=AuthServiceSGC&theme=radical" alt="AuthServiceSGC Repo" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://github.com/SaiGopal-Challa/Portfolio">
+  <a href="https://github.com/SaiGopal-Challa/CourseManagementSystem-WTC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiGopal-Challa&repo=CourseManagementSystem-WTC&theme=radical" alt="CourseManagementSystem-WTC Repo" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
   </a>
 </div>
